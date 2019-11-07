@@ -34,7 +34,7 @@ $ git merge upstream/master
    - Dentro da pasta do repositório **recém clonado**, execute o comando:
    
    ```bash
-   $ wget https://raw.githubusercontent.com/Insper/P3-Elementos-De-Sistemas/master/patch.diff
+   $ wget https://raw.githubusercontent.com/Insper/P3-Elementos-De-Sistemas/master/patch.diff?token=AAH5Z72OPNLRJMMVTQ6EAC25ZWU4U
    $ git apply -3 --ignore-space-change --ignore-whitespace patch.diff
    ```
     
