@@ -1,6 +1,4 @@
-# Simulado avaliação prática 3 - Elementos de Sistemas
-
-Esse é um simulado da prova prática 3 de Elementos de Sistemas. 
+# Avaliação prática 3 - Elementos de Sistemas
 
 Você deve ser capaz de realizar essa avaliação sem consultar a internet, 
 somente seu repositório local.
